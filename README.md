@@ -1,3 +1,7 @@
+
+<img src="./assets/github-header-image.png" alt="Front End Developer Banner" />
+<br/>
+
 ## 🔰 Let's Connect:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-babu-marthu/)
